@@ -1,3 +1,5 @@
 {
-  "gamepad.setButton": "Sets the button state to down"
+  "gamepad.move": "Sets the current move on the gamepad",
+  "gamepad.setButton": "Sets the button state to down",
+  "gamepad.setThrottle": "Sets the throttle state"
 }

@@ -1,0 +1,5 @@
+{
+  "gamepad.setButton|block": "set button %index|%down",
+  "gamepad|block": "gamepad",
+  "{id:category}Gamepad": "Gamepad"
+}

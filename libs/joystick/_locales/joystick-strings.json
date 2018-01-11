@@ -1,7 +1,7 @@
 {
-  "gamepad.move|block": "gamepad move %index|x %x|y %y",
-  "gamepad.setButton|block": "set gamepad button %index|%down",
-  "gamepad.setThrottle|block": "set gamepad throttle %index|%value",
-  "gamepad|block": "gamepad",
-  "{id:category}Gamepad": "Gamepad"
+  "joystick.move|block": "gamepad move %index|x %x|y %y",
+  "joystick.setButton|block": "set gamepad button %index|%down",
+  "joystick.setThrottle|block": "set gamepad throttle %index|%value",
+  "joystick|block": "joystick",
+  "{id:category}Joystick": "Joystick"
 }

@@ -1,7 +1,0 @@
-{
-  "gamepad.move|block": "move %index|x %x|y %y",
-  "gamepad.setButton|block": "set button %index|%down",
-  "gamepad.setThrottle|block": "set throttle %index|%value",
-  "gamepad|block": "gamepad",
-  "{id:category}Gamepad": "Gamepad"
-}

@@ -21,7 +21,7 @@
         "libs/pulse",
         "libs/cable",
         "libs/infrared",
-        "libs/gamepad",
+        "libs/joystick",
         "libs/circuit-playground"
     ],
     "serial": {

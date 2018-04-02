@@ -1,24 +1,24 @@
 {
-  "name": "pxt-adafruit",
+  "name": "pxt-xinabox",
   "version": "1.0.28",
-  "description": "Adafruit Circuit Playground Express for Microsoft MakeCode",
+  "description": "XinaBox for Microsoft MakeCode",
   "keywords": [
     "JavaScript",
     "education",
-    "adafruit",
+    "xinabox",
     "pxt",
     "MakeCode",
     "Microsoft",
-    "Adafruit",
-    "Adafruit Circuit Playground"
+    "XinaBox",
+    "xChips"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Microsoft/pxt-adafruit.git"
+    "url": "git+https://github.com/xinabox/pxt-xinabox.git"
   },
   "author": "",
   "license": "MIT",
-  "homepage": "https://github.com/Microsoft/pxt-adafruit#readme",
+  "homepage": "https://github.com/xinabox/pxt-xinabox#readme",
   "files": [
     "README.md",
     "pxtarget.json",

@@ -1,10 +1,10 @@
 {
-    "id": "adafruit",
+    "id": "xinabox",
     "platformid": "codal",
     "nickname": "circuitplayground",
-    "name": "Adafruit Circuit Playground Express",
-    "title": "Adafruit Circuit Playground Express - Blocks / Javascript editor",
-    "description": "A Blocks / JavaScript code editor for the Adafruit Circuit Playground Express.",
+    "name": "XinaBox",
+    "title": "XinaBox - Blocks / Javascript editor",
+    "description": "A Blocks / JavaScript code editor for the XinaBox.",
     "corepkg": "circuit-playground",
     "bundleddirs": [
         "libs/base",
@@ -42,7 +42,7 @@
         "parts": false,
         "enableTrace": true,
         "boardDefinition": {
-            "id": "adafruit-circuit-playground-express",
+            "id": "xinabox-xchips",
             "visual": "circuitplayground",
             "gpioPinBlocks": [
                 [
@@ -151,7 +151,7 @@
         "hasHex": true,
         "deployDrives": ".*",
         "deployFileMarker": "INFO_UF2.TXT",
-        "driveName": "CPLAYBOOT",
+        "driveName": "XINABOX",
         "openocdScript": "source [find interface/cmsis-dap.cfg]; set CHIPNAME at91samd21g18; source [find target/at91samdXX.cfg]",
         "flashChecksumAddr": 8372,
         "flashCodeAlign": 256,
@@ -259,7 +259,7 @@
     },
     "appTheme": {
         "accentColor": "#0089BF",
-        "logoUrl": "https://www.adafruit.com/product/3333",
+        "logoUrl": "https://xinabox.cc/",
         "logo": "./static/logo.svg",
         "docsLogo": "./static/logo.square.svg",
         "portraitLogo": "./static/logo.square.svg",
@@ -270,15 +270,15 @@
         "organizationUrl": "https://makecode.com/",
         "organizationLogo": "./static/Microsoft-logo_rgb_c-gray-square.png",
         "organizationWideLogo": "./static/Microsoft-logo_rgb_c-white.png",
-        "homeUrl": "https://makecode.adafruit.com/",
-        "embedUrl": "https://makecode.adafruit.com/",
+        "homeUrl": "https://makecode.xinabox.cc/",
+        "embedUrl": "https://makecode.xinabox.cc/",
         "privacyUrl": "https://go.microsoft.com/fwlink/?LinkId=521839",
         "termsOfUseUrl": "https://go.microsoft.com/fwlink/?LinkID=206977",
-        "githubUrl": "https://github.com/Microsoft/pxt-adafruit",
+        "githubUrl": "https://github.com/xinabox/pxt-xinabox",
         "feedbackUrl": "https://www.research.net/r/MCcplay",
         "crowdinProject": "kindscript",
-        "boardName": "Adafruit Circuit Playground Express",
-        "driveDisplayName": "CPLAYBOOT",
+        "boardName": "XinaBox",
+        "driveDisplayName": "XINABOX",
         "docMenu": [
             {
                 "name": "Blocks",
@@ -294,7 +294,7 @@
             },
             {
                 "name": "Buy",
-                "path": "https://www.adafruit.com/products/3333"
+                "path": "https://xinabox.cc/products/cc03"
             }
         ],
         "showHomeScreen": true,
@@ -312,7 +312,7 @@
         "extendEditor": true,
         "disableBlockIcons": true,
         "socialOptions": {
-            "twitterHandle": "adafruit",
+            "twitterHandle": "xinaboxcc",
             "orgTwitterHandle": "MSMakeCode",
             "hashtags": "MakeCode"
         },

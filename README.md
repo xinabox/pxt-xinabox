@@ -1,6 +1,6 @@
-# MakeCode for Adafruit Circuit Playground Express [![Build Status](https://travis-ci.org/Microsoft/pxt-adafruit.svg?branch=master)](https://travis-ci.org/Microsoft/pxt-adafruit)
+# MakeCode for XinaBox
 
-This repo contains the editor hosted at https://makecode.adafruit.com .
+This repo contains the editor hosted at https://makecode.xinabox.cc .
 
 ## Local Dev setup
 
@@ -13,7 +13,7 @@ In a common folder,
 
 * clone https://github.com/Microsoft/pxt to ``pxt`` folder
 * clone https://github.com/Microsoft/pxt-common-packages to ``pxt-common-packages`` folder
-* clone https://github.com/Microsoft/pxt-adafruit to ``pxt-adafruit`` folder
+* clone https://github.com/xinabox/pxt-xinabox to ``pxt-xinabox`` folder
 * go to ``pxt`` and run
 
 ```
@@ -28,7 +28,7 @@ npm install
 npm link ../pxt
 ```
 
-* go to ``pxt-adafruit`` and run
+* go to ``pxt-xinabox`` and run
 
 ```
 npm install
@@ -41,7 +41,7 @@ npm link ../pxt-common-packages
 From root github folder,
 
 ```
-cd pxt-adafruit
+cd pxt-xinabox
 pxt serve --cloud
 ```
 
@@ -54,7 +54,3 @@ pxt deploy
 
 ## License
 MIT
-
-## Code of Conduct
-
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.

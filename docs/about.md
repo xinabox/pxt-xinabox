@@ -10,9 +10,8 @@ Heads up! This editor only works for the Circuit Playground **Express**, not the
 
 ## Circuit Playground Express
 
-Check out the awesome hardware spec at **[Adafruit.com](https://www.adafruit.com/product/3333)**.
+Check out the awesome hardware spec at **[wiki.xinabox.cc](https://wiki.xinabox.cc/CC03)**.
 
-![@boardname@ image](https://cdn-shop.adafruit.com/970x728/3333-04.jpg)
 
 ## Programming: [Blocks](/blocks) or [JavaScript](/javascript)
 

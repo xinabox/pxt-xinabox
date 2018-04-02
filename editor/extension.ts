@@ -4,7 +4,7 @@ import lf = pxt.Util.lf;
 
 namespace pxt.editor {
     initExtensionsAsync = function (opts: pxt.editor.ExtensionOptions): Promise<pxt.editor.ExtensionResult> {
-        pxt.debug('loading pxt-adafruit target extensions...')
+        pxt.debug('loading pxt-xinabox target extensions...')
         const res: pxt.editor.ExtensionResult = {
             fieldEditors: [{
                 selector: "lights",

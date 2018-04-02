@@ -2,7 +2,7 @@
     "packages": {
         "approvedOrgs": [
             "Microsoft",
-            "Adafruit"
+            "XinaBox"
         ],
         "approvedRepos": [
         ]
